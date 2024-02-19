@@ -1,0 +1,39 @@
+input{
+  height: 90px;
+  margin-top: 4px;
+  text-align: end;
+  
+}
+input[type="text"]{
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #000000;
+  color: white;
+}
+.card{
+  background-color: black;
+  width: auto;
+}
+button{
+  width: 70px;
+  height: 70px;
+  margin: 2px;
+  border-radius: 15px;
+  font-size: 23px;
+  font-weight: bold;
+  background-color: #343a40;
+  color: white;
+}
+.lb{
+  width: 145px;
+  background-color: aqua;
+  color: black;
+}
+.bb{
+  background-color: aqua;
+  color: black;
+}
+button:hover{
+  background-color: yellow;
+  color: black;
+}
